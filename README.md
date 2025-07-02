@@ -62,7 +62,6 @@ All prototype elements emphasize clarity, control, motivation, and inclusive acc
 |--------------------|-----------------------------------------------------------|
 | `Design Portfolio.pdf`  | Full design report with walkthrough and rationale    |
 | `wireframes/`      | Exported medium-fidelity prototype screenshots            |
-|--------------------|-----------------------------------------------------------|
 
 ---
 
