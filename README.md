@@ -1,5 +1,7 @@
 # 🎨 Exchange Bridge – IDUX Coursework Design Portfolio
 
+This repository contains the design portfolio submitted as part of **Coursework 1** for the **CO7223: Interaction Design and User Experience (ID&UX)** module at the University of Leicester.
+
 The aim was to design a prototype system that **enhances User Interaction and Experience (UX)** using interaction design principles and user-centered thinking.
 
 ---
